@@ -12,6 +12,7 @@ public class Hello {
         System.out.println("I like chicken and plizza");
         System.out.println("Do you know heungmin son?");
         System.out.println("I just gonna getting watch on me go");
+        System.out.println("Edit Java Code!!");
     }
 }
 
